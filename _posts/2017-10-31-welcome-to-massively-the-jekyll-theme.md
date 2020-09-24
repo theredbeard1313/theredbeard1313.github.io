@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Massively: The Jekyll Theme!"
 date:   2017-10-31
 excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
-image: "/images/pic02.jpg"
+image: "https://lh3.googleusercontent.com/pw/ACtC-3cpnTdBy7dfHO9FOfEg7-5JOb57kwrhbW4BltxCDmFhLD43DEfquR79Pkcczvxggg933HPdDJnm2R-xAS9o3YzsyDe-1phZp7AWsV4ycSmghljF3WjJ6cEMzyCHLtaDk9kKsKt3Ug_dmb8pk75e2cl6=w1343-h1007-no?authuser=0"
 ---
 
 ## How to Use This Theme
