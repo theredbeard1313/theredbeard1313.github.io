@@ -10,11 +10,11 @@ url: "" # the base hostname & protocol for your site
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
+analytics-id:       "UA-178960624-1"
 twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             https://github.com/theredbeard1313
 
 # personal
 location:           Nutter Fort, WV         
