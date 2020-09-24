@@ -1,7 +1,7 @@
 # Site
 title:              Redbeard's Blog of Miscellany 
 bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "Redbeard's Blog of Miscellany"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
